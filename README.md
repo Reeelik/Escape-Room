@@ -1,0 +1,1 @@
+A simple game in Unity, it involves finding a key in a room and then escaping from it. The game consists of two levels, each level is in a different room. The objects in the rooms were created in Blender, LowPoly style.
